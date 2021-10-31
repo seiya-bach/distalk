@@ -1,0 +1,21 @@
+{
+    "name": "distalk",
+    "version": "0.1.0",
+    "description": "",
+    "main": "index.js",
+    "private": true,
+    "scripts": {
+        "start": "node src/index.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/seiya-bach/distalk.git"
+    },
+    "author": "Seiya Ogawa <ogawa.seiya.pri@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/seiya-bach/distalk/issues"
+    },
+    "homepage": "https://github.com/seiya-bach/distalk#readme"
+}
